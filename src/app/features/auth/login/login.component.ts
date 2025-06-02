@@ -84,7 +84,7 @@ import { UserRole } from '../../../core/models/user.model';
         
         <div class="info-box">
           <h4>Information</h4>
-          <p>This application demonstrates role-based component loading in Angular.</p>
+          <p>This application demonstrates role-based component loading.</p>
           <p>Each role has access to different components and features:</p>
           <ul>
             <li><strong>Admin:</strong> Full access to all components and sections</li>
